@@ -1,0 +1,4 @@
+manager@gmail.com = 1234567
+rafiul@gmail.com = 1234567
+crypt(1234) = $2y$07$akdkdkroadlfiwnmopqweulSTZQ0JLsI6F3UQGMX5P3QnQeresb0O
+crypt(1234567) = $2y$07$akdkdkroadlfiwnmopqweubEbaomLCJetgXreJZit3XH.zVD6uw5a
